@@ -1,2 +1,2 @@
 # urnaEletronica
-Projeto feito durante as aulas do curto b7web.
+Projeto feito durante as aulas do curso b7web.
